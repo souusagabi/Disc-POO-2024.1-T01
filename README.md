@@ -1,14 +1,9 @@
-# **Trabalho Escolar 01 ~ Programação Orientada a Objetos (POO)🐻🍯** ![badge Status](https://img.shields.io/badge/Status-Em_desenvolvimento-hsl) ![badge Status](https://
-***1º Etapa do 3º Semestre do curso de informática integrado ao ensino médio***
+# **Trabalho Escolar 01 ~ Programação Orientada a Objetos (POO)🐻🍯** <sub>***1º Etapa do 3º Semestre do curso de informática integrado ao ensino médio***</sub>
 
-<div>
-
-|<img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br><sub>**Programado em Java**</sub>
-| :---: |
-</div>
+ ![badge Status](https://img.shields.io/badge/Status-Em_desenvolvimento-hsl) ![badge Status](https://img.shields.io/badge/-Java-hs1)
 
 ### *Professor:*
-Roger Moura Sarmento
+> Roger Moura Sarmento
 ### *Alunos engajados no projeto:* 
 > * `Miguel da Silva Souza Ribeiro`
 > * `Dagda`
