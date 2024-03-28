@@ -10,7 +10,7 @@
 > * [Miguel da Silva Souza Ribeiro](https://github.com/Miguelito0o)
 > * Dagda
 > * Sarah Gabriele
-> * [Vitor Adriano Carneiro Lira](https://VitorLira1)
+> * [Vitor Adriano Carneiro Lira](https://github.com/VitorLira1)
 ##
 ### *Descrição do projeto:*
 Trabalho escolar da matéria de Programação Orientada a Objetos; 
