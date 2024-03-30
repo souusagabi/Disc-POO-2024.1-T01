@@ -8,8 +8,7 @@
 - [Roger Moura Sarmento](https://github.com/rogermsarmento)
 ### *Alunos engajados no projeto:* 
 > * [Miguel da Silva Souza Ribeiro](https://github.com/Miguelito0o)
-> * Dagda
-> * Sarah Gabriele
+> * [Sarah Gabriele](https://github.com/souusagabi)
 > * [Vitor Adriano Carneiro Lira](https://github.com/VitorLira1)
 ##
 ### *Descrição do projeto:*
