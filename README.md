@@ -14,4 +14,4 @@
 ##
 ### *Descrição do projeto:*
 Trabalho escolar da matéria de Programação Orientada a Objetos; 
-A atividade consiste na resolução dos exercícios resolvidos e exercícios propostos do capítulo 3 da 3ª edição do livro "Fundamentos da Programação de Computadores, o capítulo em questão (3) aborda o tema "Estrutura Sequencial". 
+A atividade consiste na resolução dos exercícios resolvidos e exercícios propostos do capítulo 3 da 3ª edição do livro "Fundamentos da Programação de Computadores", o capítulo em questão (3) aborda o tema "Estrutura Sequencial". 
